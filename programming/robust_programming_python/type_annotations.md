@@ -22,3 +22,5 @@ def read_tables(paths: str) -> Tables:
 ## Interesting types
     - defaultdict - dict with default value
     - Counter (from collections import Counter)
+    - OrderedDict (dictionaries with ordered entries as they were added)
+    - namedtuple (dictionary with values and name), immutable
